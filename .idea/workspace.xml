@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d51f17a7-a879-4c6c-b8e8-0e9040fb4fb4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Arabic and English.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Arabic and English.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="120324f7-ea26-4e93-b6c2-f170e997c3cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/First Time to Solve/Arabic and English/.idea/Arabic and English.iml" beforeDir="false" afterPath="$PROJECT_DIR$/First Time to Solve/Arabic and English/.idea/Arabic and English.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First Time to Solve/Arabic and English/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/First Time to Solve/Arabic and English/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First Time to Solve/Arabic and English/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/First Time to Solve/Arabic and English/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Little Experience/The New President/president.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,13 +33,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/arabic.py" />
-        <option value="$PROJECT_DIR$/../../Little Experience/Nth Smallest Value/small.py" />
+        <option value="$PROJECT_DIR$/Little Experience/Contest Hall Preparation/contest.py" />
+        <option value="$PROJECT_DIR$/Little Experience/The New President/president.py" />
       </list>
     </option>
   </component>
@@ -37,7 +48,7 @@
     <option name="width" value="700" />
     <option name="height" value="735" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -45,27 +56,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Arabic and English" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Little Experience" type="462c0819:PsiDirectoryNode" />
+              <item name="A2OJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A2OJ" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Arabic and English" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A2OJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A2OJ" type="462c0819:PsiDirectoryNode" />
               <item name="Little Experience" type="462c0819:PsiDirectoryNode" />
-              <item name="Nth Smallest Value" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Little Experience" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,20 +90,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.small">
-    <configuration name="arabic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Arabic and English" />
+  <component name="RunManager" selected="Python.president">
+    <configuration name="contest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="A2OJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Little Experience/Contest Hall Preparation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arabic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Little Experience/Contest Hall Preparation/contest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,19 +112,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="small" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Little Experience" />
+    <configuration name="president" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="A2OJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Little Experience/Nth Smallest Value" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Little Experience/The New President" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Little Experience/Nth Smallest Value/small.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Little Experience/The New President/president.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,8 +135,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.small" />
-        <item itemvalue="Python.arabic" />
+        <item itemvalue="Python.president" />
+        <item itemvalue="Python.contest" />
       </list>
     </recent_temporary>
   </component>
@@ -134,18 +145,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d51f17a7-a879-4c6c-b8e8-0e9040fb4fb4" name="Default Changelist" comment="" />
-      <created>1595303112609</created>
+      <changelist id="120324f7-ea26-4e93-b6c2-f170e997c3cf" name="Default Changelist" comment="" />
+      <created>1595401792974</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1595303112609</updated>
+      <updated>1595401792974</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2590604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -165,17 +177,24 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/arabic.py">
+    <entry file="file://$PROJECT_DIR$/Little Experience/Nth Smallest Value/small.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="100">
+          <caret line="4" column="10" lean-forward="true" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Little Experience/Nth Smallest Value/small.py">
+    <entry file="file://$PROJECT_DIR$/Little Experience/Contest Hall Preparation/contest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Little Experience/The New President/president.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
